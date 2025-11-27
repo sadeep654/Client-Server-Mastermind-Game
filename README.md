@@ -10,15 +10,14 @@ This project implements a multi-player Mastermind game using **a client–server
 
 <!-- Badges -->
 <p>
-  <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg" />
-  <img src="https://img.shields.io/badge/Platform-Linux-green.svg" />
-  <img src="https://img.shields.io/badge/OS-Ubuntu-orange.svg" />
-  <img src="https://img.shields.io/badge/Network-TCP%2FUDP-orange.svg" />
-  <img src="https://img.shields.io/badge/Build-Makefile-yellow.svg" />
-  <img src="https://img.shields.io/badge/Type-Client%20%2F%20Server-informational.svg" />
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
-  <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="TCP/UDP" src="https://img.shields.io/badge/-TCP%2FUDP-0078D6?style=flat-square&logo=network&logoColor=white" />
+  <img alt="Makefile" src="https://img.shields.io/badge/-Makefile-000000?style=flat-square&logo=gnu&logoColor=white" />
+  <img alt="Client-Server" src="https://img.shields.io/badge/-Client%20%2F%20Server-5A5A5A?style=flat-square&logo=serverless&logoColor=white" />
+  <img alt="Apache" src="https://img.shields.io/badge/-Apache%202.0-D22128?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="Status" src="https://img.shields.io/badge/-Stable-4CAF50?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 </p>
 
