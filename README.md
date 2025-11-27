@@ -87,3 +87,27 @@ make -f makefile
 
 # Run client (in new terminal)
 ./MClient 127.0.0.1 1234
+```
+
+---
+
+## 🔹 Project Structure
+```bash
+MServer.c      # Server program
+MClient.c      # Client program
+makefile       # Build instructions
+README.md      # Documentation
+```
+
+---
+
+## 🔹 Notes
+- Developed and tested on Fedora Linux.
+- Uses numerical symbols (0–9) instead of colours for Mastermind logic.
+- Based on coursework requirements documented in the assignment.
+
+---
+
+## 📩 Contact
+
+Feel free to explore, fork, or reach out for collaboration or opportunities.
