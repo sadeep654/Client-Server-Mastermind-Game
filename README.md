@@ -22,7 +22,7 @@ This project implements a multi-player Mastermind game using **a client–server
 ## 🔹 Architecture
 
 <p align="center">
-  <img src="architecture.png" width="80%" alt="Client-Server Architecture Diagram" />
+  <img src="img/diagram.png" width="80%" alt="Client-Server Architecture Diagram" />
 </p>
 
 **Architecture Summary**
