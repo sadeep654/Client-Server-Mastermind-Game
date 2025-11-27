@@ -10,11 +10,18 @@ This project implements a multi-player Mastermind game using **a client–server
 
 <!-- Badges -->
 <p>
+  <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" />
   <img src="https://img.shields.io/badge/Platform-Linux-green.svg" />
+  <img src="https://img.shields.io/badge/OS-Ubuntu-orange.svg" />
+  <img src="https://img.shields.io/badge/OS-Fedora-red.svg" />
   <img src="https://img.shields.io/badge/Network-TCP%2FUDP-orange.svg" />
   <img src="https://img.shields.io/badge/Build-Makefile-yellow.svg" />
+  <img src="https://img.shields.io/badge/API-BSD%20Sockets-blue.svg" />
+  <img src="https://img.shields.io/badge/Type-Client%20%2F%20Server-informational.svg" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
   <img src="https://img.shields.io/badge/Status-Stable-brightgreen.svg" />
+</p>
 </p>
 
 ---
