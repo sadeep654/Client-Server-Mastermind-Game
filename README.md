@@ -4,9 +4,9 @@
 </p>
 
 ---
- 
-A multiplayer Mastermind game implemented in **C** using **TCP** and **UDP** sockets.  
-Features real-time communication, matchmaking, timeouts, and a command-based terminal interface.
+
+## 🔹 Overview
+This project implements a multi-player Mastermind game using **a client–server architecture in C**, demonstrating practical skills in **network programming, concurrency handling, and real-time communication**. It was built on Linux using **TCP for control messages and UDP for gameplay**, showcasing strong understanding of low-level socket operations and system programming.
 
 <!-- Badges -->
 <p>
@@ -19,14 +19,7 @@ Features real-time communication, matchmaking, timeouts, and a command-based ter
 
 ---
 
-## 📘 Overview
-This project implements a **client–server multiplayer Mastermind game** using low-level socket programming under Linux.  
-The server manages all connected clients, matchmaking requests, username validation, and game session coordination.  
-Clients communicate with the server via **TCP**, while gameplay exchanges occur using **UDP**.
-
----
-
-## 🧱 Architecture
+## 🔹 Architecture
 
 <p align="center">
   <img src="architecture.png" width="80%" alt="Client-Server Architecture Diagram" />
@@ -40,7 +33,7 @@ Clients communicate with the server via **TCP**, while gameplay exchanges occur 
 
 ---
 
-## 🎥 Gameplay Demo
+## 🔹 Gameplay Demo
 
 <p align="center">
   <img src="demo.gif" width="70%" alt="Gameplay Demo GIF" />
@@ -50,7 +43,7 @@ Clients communicate with the server via **TCP**, while gameplay exchanges occur 
 
 ---
 
-## 🚀 Features
+## 🔹 Key Features
 - 🌐 **Client–server architecture** using TCP & UDP  
 - 🧩 Turn-based Mastermind gameplay  
 - 🕒 **60-second timeout system**  
@@ -59,7 +52,7 @@ Clients communicate with the server via **TCP**, while gameplay exchanges occur 
 - 🛡️ Username & session validation  
 - 🔄 Real-time updates between two players  
 
-### ✔ Supported Commands
+>### ✔ Supported Commands
 | Command | Description |
 |--------|-------------|
 | `!help` | Show all commands |
@@ -72,15 +65,20 @@ Clients communicate with the server via **TCP**, while gameplay exchanges occur 
 
 ---
 
-## 📦 Installation & Build
+## 🔹 Installation & Build
 
-### 🔧 Requirements
+>### 🔧 Requirements
 - Linux OS (Ubuntu, Fedora, etc.)  
 - GCC Compiler  
 - Make utility  
 
-### 🛠 Build the Project
+>### 🛠 Build the Project
 ```bash
-git clone https://github.com/<your-username>/Client-Server-Mastermind-Game.git
-cd Client-Server-Mastermind-Game
+# Compile
 make -f makefile
+
+# Run server
+./MServer 127.0.0.1 1234
+
+# Run client (in new terminal)
+./MClient 127.0.0.1 1234
