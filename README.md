@@ -1,11 +1,10 @@
-# Client-Server-Mastermind-Game
-
 <!-- Repository Banner -->
 <p align="center">
   <img src="img/banner.png" width="100%" alt="Project Banner" />
 </p>
 
-# 🎮 Mastermind Client–Server Game
+---
+ 
 A multiplayer Mastermind game implemented in **C** using **TCP** and **UDP** sockets.  
 Features real-time communication, matchmaking, timeouts, and a command-based terminal interface.
 
