@@ -30,7 +30,7 @@ This project implements a multi-player Mastermind game using **a client–server
   <img src="img/diagram.png" width="100%" alt="Client-Server Architecture Diagram" />
 </p>
 
-**Architecture Summary**
+>**Architecture Summary**
 - **TCP:** Login, commands, matchmaking, state updates  
 - **UDP:** Real-time gameplay messaging  
 - **Server:** Tracks online players, pending requests, game sessions  
