@@ -9,7 +9,7 @@
 This project implements a multi-player Mastermind game using **a client–server architecture in C**, demonstrating practical skills in **network programming, concurrency handling, and real-time communication**. It was built on Linux using **TCP for control messages and UDP for gameplay**, showcasing strong understanding of low-level socket operations and system programming.
 
 <!-- Badges -->
-<p>
+<p align="center">
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
