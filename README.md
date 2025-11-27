@@ -38,16 +38,6 @@ This project implements a multi-player Mastermind game using **a client–server
 
 ---
 
-## 🔹 Gameplay Demo
-
-<p align="center">
-  <img src="demo.gif" width="70%" alt="Gameplay Demo GIF" />
-</p>
-
-*(To create your own GIF: record gameplay using OBS or Peek → save as demo.gif → upload to repo.)*
-
----
-
 ## 🔹 Key Features
 - 🌐 **Client–server architecture** using TCP & UDP  
 - 🧩 Turn-based Mastermind gameplay  
