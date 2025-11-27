@@ -2,7 +2,7 @@
 
 <!-- Repository Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Project Banner" />
+  <img src="img/banner.png" width="100%" alt="Project Banner" />
 </p>
 
 # 🎮 Mastermind Client–Server Game
