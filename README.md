@@ -1,8 +1,3 @@
-# Client-Server Mastermind Game
-
-A client–server implementation of the classic Mastermind game using C.  
-Includes socket programming, game logic, and a menu-driven UI.
-
 <!-- Repository Banner -->
 <p align="center">
   <img src="img/banner.png" width="100%" alt="Project Banner" />
