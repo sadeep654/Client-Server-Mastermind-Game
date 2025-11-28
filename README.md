@@ -7,6 +7,12 @@
 
 ## 🔹 Overview
 This project implements a multi-player Mastermind game using **a client–server architecture in C**, demonstrating practical skills in **network programming, concurrency handling, and real-time communication**. It was built on Linux using **TCP for control messages and UDP for gameplay**, showcasing strong understanding of low-level socket operations and system programming.
+>See the demo video below for a quick visual explanation of how the system works.
+<p align="center">
+  <img src="img/demo.gif" alt="Vehicle Accident Alert Demo" width="1000px">
+</p>
+ 
+>Full system description referenced from project documentation.
 
 <!-- Badges -->
 <p align="center">
