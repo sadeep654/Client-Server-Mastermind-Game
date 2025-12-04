@@ -103,6 +103,29 @@ README.md      # Documentation
 
 ---
 
+## 🔹 License
+
+This project is licensed under the **MIT** License.
+See the **LICENSE** file for details.
+
+---
+
+## 🔹 Authors
+```bash
+Copyright (c) 2021 Sadeep Dilshan Kasthuriarachchi
+```
+
+---
+
+## 🔹 Citation
+
+If you reference this work, please cite:
+```bash
+Kasthuriarachchi, S.D. (2024) Client-Server Mastermind Game. GitHub repository. Available at: https://github.com/sadeep654/Client-Server-Mastermind-Game (Accessed: date-you-accessed).
+```
+
+---
+
 ## 📩 Contact
 
 Feel free to explore, fork, or reach out for collaboration or opportunities.
